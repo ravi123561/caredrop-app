@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,47 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 🩸 Caredrop – Blood Donation Web Application
+
+Caredrop is a **blood donation management web application** built to connect donors with people in need.  
+The goal of this project is to **make blood donation easier, faster, and accessible for everyone.**
+
+---
+
+## 🚀 Features
+
+- 🔑 **User Authentication** – Register & Login functionality.  
+- 🏠 **Home Page** – Clear navigation and blood donation awareness.  
+- 📝 **Profile Section** – Manage donor/receiver details.  
+- 🩸 **Donate Blood Form** – Simple form to register as a donor.  
+- 📞 **Contact Page** – Easy way to connect with the platform.  
+- 📖 **About Page** – Mission and vision of Caredrop.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Routing:** React Router  
+- **Icons & UI:** Shadcn/UI, Lucide Icons  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📷 Screenshots (Add your own later)
+
+> Add some screenshots of your app here for better presentation:  
+
+- 🏠 Home Page  
+- 🩸 Donate Blood Form  
+- 👤 Profile Section  
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/caredrop.git
+>>>>>>> c0bf5e9c1f0d4c344b979a99789a210c9daad6eb
